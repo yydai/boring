@@ -1,0 +1,16 @@
+* Random choose a video to watch
+
+  boring
+  movie genre-[senc ... ]
+  纪录片
+  小电影
+
+  auto get bt torrent in the website and download.
+
+  the resources is stored in JSON file(maybe) or (redis mongdb is a better choice? I don't know)
+
+  a spider is needed? download speed check
+
+  use the NLU or NLP, e.g. we can do like this:
+
+  boring  王朝 bbc and then show the watching address
